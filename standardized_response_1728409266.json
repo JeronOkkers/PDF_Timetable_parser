@@ -1,0 +1,719 @@
+{
+  "standardizationId": "af561879",
+  "documentId": "189b3344",
+  "data": {
+    "institution": "IIE's VC Cape Town Newlands Campus",
+    "faculty": "Faculty of Science and Technology",
+    "school": "School of Computer Science",
+    "modeOfStudies": "Full Time",
+    "qualification": {
+      "name": "Bachelor of Computer and Information Sciences in Application Development",
+      "code": "VCWCCR - BCA1 Group 2"
+    },
+    "latestVersion": "12 SEP S2",
+    "modules": [
+      {
+        "code": "ITPP5112",
+        "name": "IT Professional Practice",
+        "lecturer": "Matope, Jasmine"
+      },
+      {
+        "code": "NWEG5122",
+        "name": "Network Engineering 1B",
+        "lecturer": "Harpur, Patricia-Ann"
+      },
+      {
+        "code": "PROG6112",
+        "name": "Programming 1B",
+        "lecturer": "Riko Wolhuter"
+      },
+      {
+        "code": "PROG6112 WKSP",
+        "name": "PROG6112 WKSP",
+        "lecturer": "Riko Wolhuter"
+      },
+      {
+        "code": "PRSE6212",
+        "name": "Principles of Security",
+        "lecturer": "Grant Samson"
+      }
+    ],
+    "timetable": [
+      {
+        "week": "w30 AW1",
+        "days": {
+          "Mon": [
+            {
+              "time": "10H00 - 10H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "13H00 - 13H50",
+              "module": "ITPP5112 LR01"
+            },
+            {
+              "time": "14H00 - 14H50",
+              "module": "ITPP5112 LR01"
+            }
+          ],
+          "Tue": [
+            {
+              "time": "13H00 - 13H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "14H00 - 14H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "15H00 - 15H50",
+              "module": "ITPP5112 LR01"
+            },
+            {
+              "time": "16H00 - 16H50",
+              "module": "ITPP5112 LR01"
+            }
+          ],
+          "Wed": [
+            {
+              "time": "13H00 - 13H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "14H00 - 14H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "15H00 - 15H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "16H00 - 16H50",
+              "module": "NWEG5122 CR02"
+            }
+          ],
+          "Thu": [
+            {
+              "time": "10H00 - 10H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "NWEG5122 CR02"
+            }
+          ],
+          "Fri": [
+            {
+              "time": "13H00 - 13H50",
+              "module": "ITPP5112 LR01"
+            },
+            {
+              "time": "14H00 - 14H50",
+              "module": "ITPP5112 LR01"
+            },
+            {
+              "time": "15H00 - 15H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "16H00 - 16H50",
+              "module": "PROG6112 CR02"
+            }
+          ]
+        }
+      },
+      {
+        "week": "w31 AW2",
+        "days": {
+          "Mon": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "10H00 - 10H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "PROG6112 CR02"
+            }
+          ],
+          "Tue": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "10H00 - 10H50",
+              "module": "PRSE6212 CR02"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "PRSE6212 CR02"
+            }
+          ],
+          "Wed": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "NWEG5122 CR03"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "NWEG5122 CR03"
+            },
+            {
+              "time": "10H00 - 10H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "PROG6112 CR02"
+            }
+          ],
+          "Fri": [
+            {
+              "time": "13H00 - 13H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "14H00 - 14H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "15H00 - 15H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "16H00 - 16H50",
+              "module": "PROG6112 CR02"
+            }
+          ]
+        }
+      },
+      {
+        "week": "w32 AW3 FP1",
+        "days": {
+          "Mon": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "10H00 - 10H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "13H00 - 13H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "14H00 - 14H50",
+              "module": "NWEG5122 CR02"
+            }
+          ],
+          "Tue": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "10H00 - 10H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "13H00 - 13H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "14H00 - 14H50",
+              "module": "PRSE6212 LR01"
+            }
+          ],
+          "Thu": [
+            {
+              "time": "13H00 - 13H50",
+              "module": "ITPP5112 LR01"
+            },
+            {
+              "time": "14H00 - 14H50",
+              "module": "ITPP5112 LR01"
+            },
+            {
+              "time": "15H00 - 15H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "16H00 - 16H50",
+              "module": "PROG6112 CR02"
+            }
+          ]
+        }
+      },
+      {
+        "week": "w33 AW4 FP2",
+        "days": {
+          "Mon": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "10H00 - 10H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "PRSE6212 LR01"
+            }
+          ],
+          "Tue": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "10H00 - 10H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "PROG6112 CR02"
+            }
+          ],
+          "Wed": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "PRSE6212 CR02"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "PRSE6212 CR02"
+            },
+            {
+              "time": "10H00 - 10H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "13H00 - 13H50",
+              "module": "ITPP5112 LR15"
+            },
+            {
+              "time": "14H00 - 14H50",
+              "module": "ITPP5112 LR15"
+            }
+          ],
+          "Thu": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "NWEG5122 CR03"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "NWEG5122 CR03"
+            }
+          ],
+          "Fri": [
+            {
+              "time": "10H00 - 10H50",
+              "module": "ITPP5112 LR01"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "ITPP5112 LR01"
+            },
+            {
+              "time": "13H00 - 13H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "14H00 - 14H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "15H00 - 15H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "16H00 - 16H50",
+              "module": "PROG6112 CR02"
+            }
+          ]
+        }
+      },
+      {
+        "week": "w34 TEST",
+        "days": {
+          "Tue": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "PROG6112 WKSP"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "PROG6112 WKSP CR03"
+            },
+            {
+              "time": "10H00 - 10H50",
+              "module": "PROG6112 WKSP CR03"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "PROG6112 WKSP"
+            }
+          ],
+          "Thu": [
+            {
+              "time": "13H00 - 13H50",
+              "module": "PROG6112 WKSP"
+            },
+            {
+              "time": "14H00 - 14H50",
+              "module": "PROG6112 WKSP"
+            },
+            {
+              "time": "15H00 - 15H50",
+              "module": "PROG6112 WKSP CR03"
+            },
+            {
+              "time": "16H00 - 16H50",
+              "module": "PROG6112 WKSP"
+            }
+          ]
+        }
+      },
+      {
+        "week": "w35 AW5 FP3",
+        "days": {
+          "Mon": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "10H00 - 10H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "PROG6112 CR02"
+            }
+          ],
+          "Tue": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "10H00 - 10H50",
+              "module": "ITPP5112 LR01"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "ITPP5112 LR01"
+            }
+          ],
+          "Wed": [
+            {
+              "time": "13H00 - 13H50",
+              "module": "PRSE6212 CR02"
+            },
+            {
+              "time": "14H00 - 14H50",
+              "module": "PRSE6212 CR02"
+            },
+            {
+              "time": "15H00 - 15H50",
+              "module": "PRSE6212 CR02"
+            },
+            {
+              "time": "16H00 - 16H50",
+              "module": "PRSE6212 CR02"
+            }
+          ],
+          "Fri": [
+            {
+              "time": "13H00 - 13H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "14H00 - 14H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "15H00 - 15H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "16H00 - 16H50",
+              "module": "PROG6112 CR02"
+            }
+          ]
+        }
+      },
+      {
+        "week": "w36 AW6",
+        "days": {
+          "Mon": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "10H00 - 10H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "NWEG5122 CR02"
+            }
+          ],
+          "Tue": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "PRSE6212 CR02"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "PRSE6212 CR02"
+            },
+            {
+              "time": "10H00 - 10H50",
+              "module": "ITPP5112 LR01"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "ITPP5112 LR01"
+            }
+          ],
+          "Wed": [
+            {
+              "time": "13H00 - 13H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "14H00 - 14H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "15H00 - 15H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "16H00 - 16H50",
+              "module": "PRSE6212 LR01"
+            }
+          ],
+          "Fri": [
+            {
+              "time": "13H00 - 13H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "14H00 - 14H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "15H00 - 15H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "16H00 - 16H50",
+              "module": "PROG6112 CR02"
+            }
+          ]
+        }
+      },
+      {
+        "week": "w37 AW7 FP4",
+        "days": {
+          "Mon": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "10H00 - 10H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "PROG6112 CR02"
+            }
+          ],
+          "Tue": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "10H00 - 10H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "NWEG5122 CR02"
+            }
+          ],
+          "Wed": [
+            {
+              "time": "10H00 - 10H50",
+              "module": "ITPP5112 LR01"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "ITPP5112 LR01"
+            }
+          ],
+          "Fri": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "10H00 - 10H50",
+              "module": "ITPP5112 LR01"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "ITPP5112 LR01"
+            }
+          ]
+        }
+      },
+      {
+        "week": "w38 AW8 FP5",
+        "days": {
+          "Mon": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "PROG6112 CR02"
+            },
+            {
+              "time": "10H00 - 10H50",
+              "module": "PRSE6212 LR01"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "PRSE6212 LR01"
+            }
+          ],
+          "Tue": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "PRSE6212 CR02"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "PRSE6212 CR02"
+            },
+            {
+              "time": "10H00 - 10H50",
+              "module": "ITPP5112 LR01"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "ITPP5112 LR01"
+            }
+          ],
+          "Fri": [
+            {
+              "time": "08H00 - 08H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "09H00 - 09H50",
+              "module": "NWEG5122 CR02"
+            },
+            {
+              "time": "10H00 - 10H50",
+              "module": "ITPP5112 LR01"
+            },
+            {
+              "time": "11H00 - 11H50",
+              "module": "ITPP5112 LR01"
+            }
+          ]
+        }
+      }
+    ],
+    "calendar_name": "Semester Timetable"
+  },
+  "schemaId": "fbb9178d",
+  "schemaName": "Student Timetable",
+  "description": null,
+  "jobId": null,
+  "dataset": "unassigned",
+  "filename": "timetable.pdf",
+  "credits": null,
+  "timestamp": "2024-10-08T17:41:04.115000",
+  "metadata": null
+}
